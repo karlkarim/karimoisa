@@ -56,8 +56,8 @@ namespace ConsoleApp2
                 Console.WriteLine("Zero");
             }
 
-
-            //skajdkasjkldkl kasdklj alksj dkl
+            
+            //skajdkasjkldkl kasdklj alksj dkldssss
 
 
 
